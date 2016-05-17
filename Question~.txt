@@ -1,0 +1,6 @@
+自己的資料庫軟體 無法創建中文資料表
+
+index.html 一進入就出現script對話框
+
+擷取網頁失敗
+擷取網頁編碼(meta tags ;content charset)
